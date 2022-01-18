@@ -1,6 +1,6 @@
 # Bikesharing_ML-Project-in-AWS
 # Report: Predict Bike Sharing Demand with AutoGluon Solution
-#### Joy Hilda Mukami Kareko
+
 
 ## Initial Training
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
@@ -52,13 +52,13 @@ TODO: Add your explanation
 
 TODO: Replace the image below with your own.
 
-![model_train_score.png](nd009t-c1-intro-to-ml-project-starter/model_train_score.png)
+![model_train_score.png](model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 TODO: Replace the image below with your own.
 
-![model_test_score.png](nd009t-c1-intro-to-ml-project-starter/model_test_score.png)
+![model_test_score.png](model_test_score.png)
 
 ## Summary
 TODO: Add your explanation
